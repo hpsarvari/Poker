@@ -1,7 +1,7 @@
 Poker
 =====
 
-A Texas Hold'Em poker game in Python
+A Texas Hold'Em poker game in Python V.2
 
 Poker.py is the game engine and deck/player generator.  Handles side pots (this took me about a month to work out) just about..
 
